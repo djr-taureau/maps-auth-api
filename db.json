@@ -3,12 +3,30 @@
     {
       "id": 1,
       "username": "druyle",
-      "accessToken": "JMSZDvUsSHwXoZlDCiFFa2T7bVlrpVrJ"
+      "accessToken": "JMSZDvUsSHwXoZlDCiFFa2T7bVlrpVrJ",
+      "userRoles": [],
+      "user_permissions": []
     },
     {
-      "id": 1,
+      "id": 2,
       "username": "mwitt",
-      "accessToken": "r82M6XuQ3I7KpTgPzIhIcWBbZhYLHhsw"
+      "accessToken": "r82M6XuQ3I7KpTgPzIhIcWBbZhYLHhsw",
+      "userRoles": [],
+      "user_permissions": []
+    }
+  ],
+  "maps": [
+    {
+      "id": 1,
+      "title": "test-map-1"
+    },
+    {
+      "id": 2,
+      "title": "test-map-2"
+    },
+    {
+      "id": 2,
+      "title": "test-map-3"
     }
   ]
 }
